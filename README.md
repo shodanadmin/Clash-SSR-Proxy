@@ -89,7 +89,7 @@
 ---
 
 ### 3. 杜卡迪机场 - 1元/月传家宝 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 杜卡迪官网](https://dukadi.info/#/register?code=Eq5kh21L)
+**官网入口**：[👉 杜卡迪官网](https://dukadi.shop/#/register?code=Eq5kh21L)
 
 **核心优势**：
 - ✅ **年付12元=1元/月**，200GB流量（传家宝级别）
