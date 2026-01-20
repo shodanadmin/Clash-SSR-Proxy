@@ -1,6 +1,6 @@
 # 最新机场推荐合集｜21家机场节点订阅服务深度评测与优惠码汇总
 
-> **最后更新**：2026年1月13日  
+> **最后更新**：2026年1月20日  
 > **友情提醒**：市面上大小机场繁多，这些都是精挑细选花钱购买使用整理出来的，用起来基本都是很不错的。那些TG里面经常卡被骂也没管理回复处理问题的都筛选掉了，不会推荐。没有绝对的完美，只有绝美的搭配！人在江湖，没有几个备用的机场怎么行！  
 > **文章声明**：本内容仅供信息分享和入口指南，请合理使用网络服务，遵守相关法律法规。
 
@@ -20,7 +20,7 @@
 ## 🏆 最优推荐（重点推荐 - 团队响应快，社区氛围好）
 
 ### 红杏云 - Trojan协议+全球60+节点 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 红杏云官网](https://hongxingyun1.com/web/#/login?code=ViOMeZuM)
+**官网入口**：[👉 红杏云官网](https://go.clashshome.com/hongxingyun)
 **优惠码**：`hx2026`（新用户首单8折）
 
 **核心优势**：
@@ -38,8 +38,8 @@
 ---
 
 ### overwall - 游戏专线，流畅首选 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 overwall官网](https://www.sharktime.net/#/register?code=R5cZjB71)
-**备用地址**：[👉 overwall备用地址](https://dash.watchdoor.dog/#/register?code=R5cZjB71)
+**官网入口**：[👉 overwall官网](https://go.clashshome.com/overwall)
+**备用地址**：[👉 overwall备用地址](https://go.clashshome.com/overwall1)
 
 **核心优势**：
 - ✅ **游戏专线**，解决特殊网络环境需求
@@ -59,7 +59,7 @@
 ## 一、低价入门级机场（8-15元/月）
 
 ### 1. 布丁猫机场 - 8元起不限制设备
-**官网入口**：[👉 布丁猫机场官网](https://budingcat.xyz/#/register?code=KTdyYpN3)
+**官网入口**：[👉 布丁猫机场官网](https://go.clashshome.com/budingcat)
 
 **核心优势**：
 - ✅ **8元/月起**，市场最低价之一
@@ -74,7 +74,7 @@
 ---
 
 ### 2. 稳连云机场 - 12元起IEPL专线
-**官网入口**：[👉 稳连云机场官网](https://w5.awcmam.com/#/register?code=JbgaMMVM)
+**官网入口**：[👉 稳连云机场官网](https://go.clashshome.com/wenlianyun)
 
 **核心优势**：
 - ✅ **12元/月起**，IEPL专线+中转线路
@@ -89,7 +89,7 @@
 ---
 
 ### 3. 杜卡迪机场 - 1元/月传家宝 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 杜卡迪官网](https://dukadi.shop/#/register?code=Eq5kh21L)
+**官网入口**：[👉 杜卡迪官网](https://go.clashshome.com/dukadi)
 
 **核心优势**：
 - ✅ **年付12元=1元/月**，200GB流量（传家宝级别）
@@ -106,7 +106,7 @@
 ---
 
 ### 4. 山水云机场 - 15元起IEPL专线
-**官网入口**：[👉 山水云机场官网](https://sy2.pufadasha.com/#/register?code=L4WwUSX3)
+**官网入口**：[👉 山水云机场官网](https://go.clashshome.com/shanshuiyun)
 
 **核心优势**：
 - ✅ **15元/月起**，IEPL专线节点
@@ -119,7 +119,7 @@
 - **128G/特惠套餐**：¥45/3个月，月均¥15，8设备（最划算）
 
 ### 5. COCODUCK机场 - 15元起不限制设备
-**官网入口**：[👉 COCODUCK机场官网](https://www.cocoduck.live/auth/register?code=dd1f788232)
+**官网入口**：[👉 COCODUCK机场官网](https://go.clashshome.com/cocoduck)
 
 **核心优势**：
 - ✅ **15元/月起**，创意鸭类主题套餐命名
@@ -137,7 +137,7 @@
 ## 二、性价比首选机场（15-30元/月）
 
 ### 6. 红杏云 - Trojan协议+全球60+节点 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 红杏云官网](https://hongxingdl.one/web/#/login?code=MpeXDXcT)  
+**官网入口**：[👉 红杏云官网](https://go.clashshome.com/hongxingyun)  
 **优惠码**：`hx2025`（新用户首单8折）
 
 **核心优势**：
@@ -155,7 +155,7 @@
 ---
 
 ### 7. 奈云 - 全球节点+家宽IP ⭐⭐⭐⭐⭐
-**官网入口**：[👉 奈云官网](https://v13.v2ny.me?path=register&code=1wIegJF2)
+**官网入口**：[👉 奈云官网](https://go.clashshome.com/naiyun)
 
 **核心优势**：
 - ✅ **全球广泛节点覆盖**（港/日/美/英/加/澳等）
@@ -171,7 +171,7 @@
 ---
 
 ### 8. 尔湾云机场 - 年付7折优惠
-**官网入口**：[👉 尔湾云机场官网](https://erwan6.net/auth/register?code=bSKhj5)  
+**官网入口**：[👉 尔湾云机场官网](https://go.clashshome.com/erwanyun)  
 **优惠码**：`ss12`（年付7折）
 
 **核心优势**：
@@ -187,7 +187,7 @@
 ---
 
 ### 9. 精灵学院机场 - IEPL专线+EMBY服务
-**官网入口**：[👉 精灵学院机场官网](https://jump.riolu.work/register?aff=LDl6GQut)  
+**官网入口**：[👉 精灵学院机场官网](https://go.clashshome.com/jinglingxy)  
 **优惠码**：`New2025`（新用户95折）
 
 **核心优势**：
@@ -203,7 +203,7 @@
 ---
 
 ### 10. FlyBit网络服务 - 流媒体解锁专家
-**官网入口**：[👉 FlyBit官网](https://www.52fb.cc/#/register?code=fl5iVmNZ)
+**官网入口**：[👉 FlyBit官网](https://go.clashshome.com/flybit)
 
 **核心优势**：
 - ✅ **SS协议+Secure隧道**，安全可靠
@@ -218,7 +218,7 @@
 ---
 
 ### 11. M78星云机场 - 2000Mbps高速
-**官网入口**：[👉 M78星云机场官网](https://www.m78.at/#/register?code=jv0lwSHb)
+**官网入口**：[👉 M78星云机场官网](https://go.clashshome.com/m78xingyun)
 
 **核心优势**：
 - ✅ **最高2000Mbps速率**，三网BGP入口
@@ -233,7 +233,7 @@
 ---
 
 ### 12. 白月光机场 - IEPL专线+全球70+国家节点 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 白月光机场官网](https://www.sibker.com/register?code=aRuzXjAK)
+**官网入口**：[👉 白月光机场官网](https://go.clashshome.com/baiyueguang)
 
 **核心优势**：
 - ✅ **IEPL专线技术**，晚高峰稳定不卡顿
@@ -251,7 +251,7 @@
 ---
 
 ### 13. 渔云机场 - 新疆可用+EMBY服务
-**官网入口**：[👉 渔云机场官网](https://cloudfisher.one/web/#/login?code=pCLOmZqp)
+**官网入口**：[👉 渔云机场官网](https://go.clashshome.com/yuyunjc)
 
 **核心优势**：
 - ✅ **新疆可用性保证**（非电信IPV6）
@@ -268,7 +268,7 @@
 ## 三、大流量高端机场（30元以上/月）
 
 ### 14. ssrdog机场 - 67个优质节点
-**官网入口**：[👉 ssrdog机场官网](https://st1.hosbb.com/#/register?code=jqGZh87O)
+**官网入口**：[👉 ssrdog机场官网](https://go.clashshome.com/ssrdog)
 
 **核心优势**：
 - ✅ **67个优质节点**，覆盖全球主要地区
@@ -283,7 +283,7 @@
 ---
 
 ### 15. 万达云机场 - 新疆专用+Emby服务
-**官网入口**：[👉 万达云机场官网](https://link.wdyserver.com/register?code=kfKBXYDH)
+**官网入口**：[👉 万达云机场官网](https://go.clashshome.com/wandayun)
 
 **核心优势**：
 - ✅ **新疆专用IPV6套餐**，50+线路
@@ -298,7 +298,7 @@
 ---
 
 ### 16. 扬帆云机场 - 年费7折+节点等级系统
-**官网入口**：[👉 扬帆云机场官网](https://yftg1.com/register?code=uw7Q2bjo)  
+**官网入口**：[👉 扬帆云机场官网](https://go.clashshome.com/yangfanyun)  
 **优惠码**：`618`（年付7折）
 
 **核心优势**：
@@ -329,7 +329,7 @@
 ---
 
 ### 18. Biubiu加速器 - 三网专线IPLC ⭐⭐⭐⭐⭐
-**官网入口**：[👉 Biubiu官网](https://bce7gtov19.biubiu.shop/#/register?code=liEwE3uk)
+**官网入口**：[👉 Biubiu官网](https://go.clashshome.com/biubiu)
 
 **核心优势**：
 - ✅ **三网专线IPLC传输网络**，100+全球节点
@@ -348,8 +348,8 @@
 ## 四、特色功能机场
 
 ### 19. overwall - 游戏专线 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 overwall官网](https://www.sharktime.net/#/register?code=R5cZjB71)  
-**备用地址**：[👉 overwall备用地址](https://dash.watchdoor.dog/#/register?code=R5cZjB71)
+**官网入口**：[👉 overwall官网](https://go.clashshome.com/overwall)  
+**备用地址**：[👉 overwall备用地址](https://go.clashshome.com/overwall1)
 
 **核心优势**：
 - ✅ **游戏专线**，解决特殊网络环境需求
@@ -368,7 +368,7 @@
 ---
 
 ### 20. 袋鼠加速 - 抖音改IP专家
-**官网入口**：[👉 袋鼠加速官网](https://daishu09.com/#/register?code=zIoUufNB)
+**官网入口**：[👉 袋鼠加速官网](https://go.clashshome.com/daishujiasu)
 
 **核心优势**：
 - ✅ **抖音改IP专属功能**（主页/留言/作品）
@@ -387,8 +387,8 @@
 ## 五、不限时流量包机场
 
 ### 21. 魔戒 - 不限时长永久有效 ⭐⭐⭐⭐⭐
-**官网入口**：[👉 魔戒官方入口](https://mojie.co/register?aff=fcgCJlUl)  
-**备用地址**：[👉 魔戒备用地址](https://mojie.app/#/register?code=fcgCJlUl)
+**官网入口**：[👉 魔戒官方入口](https://go.clashshome.com/mojie)  
+**备用地址**：[👉 魔戒备用地址](https://go.clashshome.com/mojieapp)
 
 **核心优势**：
 - ✅ **不限时长，永久有效**，流量用完即止
