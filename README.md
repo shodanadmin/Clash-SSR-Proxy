@@ -1,3 +1,9 @@
+![Daily Update](https://github.com/jichangvps/Clash-SSR-Proxy/actions/workflows/update.yml/badge.svg)
+
+📅 最后更新：2025-02-07 08:00 UTC | 每日更新价格和优惠码
+
+---
+
 # 最新机场推荐合集｜21家机场节点订阅服务深度评测与优惠码汇总
 
 > **最后更新**：2026年2月6日  
