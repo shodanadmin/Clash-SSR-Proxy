@@ -346,7 +346,7 @@
 ---
 
 ### 17. XSUS网络服务 - 5Gbps突发带宽
-**官网入口**：[👉 XSUS官网](https://xs-us.xyz/register?code=G3gBe4Zs)
+**官网入口**：[👉 XSUS官网](https://go.clashshome.com/xsusgw)
 
 **核心优势**：
 - ✅ **自有机房专柜**，环球多地接入
