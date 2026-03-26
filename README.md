@@ -24,7 +24,9 @@
 ### 1. 红杏云 - 全新IEPL专线+全球60+节点 ⭐⭐⭐⭐⭐
 **官网入口**：[👉 红杏云官网](https://go.clashshome.com/hongxingyun)  
 **优惠码**：`ABING888`（独家全场8折专属优惠，一个账户可用两次，务必从我的链接注册才能生效）
-
+<p align="center">
+  <img src="images/hongxingyun.png" width="80%" alt="红杏云">
+</p>
 **核心优势**：
 - ✅ **2026年全面升级IEPL专线**，速度更快、稳定性更强、延迟更低（实测香港节点延迟仅30ms）
 - ✅ **Trojan协议+TLS 1.3加密**，安全可靠，几乎无法被检测
