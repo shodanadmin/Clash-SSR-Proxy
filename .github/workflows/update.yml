@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # 每天UTC 8点更新（北京时间16点）
-  workflow_dispatch:  # 也支持手动触发
+    - cron: '0 8 * * *'  
+  workflow_dispatch:  
 
 jobs:
   update:
