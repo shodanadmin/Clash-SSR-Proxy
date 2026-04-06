@@ -82,7 +82,7 @@
 ### 1. 红杏云 - IEPL 专线 + 86 节点 （近期暂时切直连线路）
 
 **官网入口**：
-- [红杏云官网](https://go.clashshome.com/hongxingyun)
+- [红杏云官网<<](https://go.clashshome.com/hongxingyun)
 
 **优惠码**：`ABING888`（全场 8 折，一个账户可用两次）
 
