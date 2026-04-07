@@ -94,7 +94,7 @@
 ---
 
 <span id="hongxingyun"></span>
-### 1. 红杏云 - IEPL 专线 + 86 节点 （近期暂时切直连线路）
+### 1. 红杏云 - IEPL 专线 + 30多个 节点 （专线在官方客户端使用）
 
 **官网入口**：
 - [红杏云官网](https://go.clashshome.com/hongxingyun)
