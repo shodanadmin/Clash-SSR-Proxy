@@ -313,7 +313,7 @@
 | 1000G | ¥199 | 1000Mbps | 10台 |
 
 <p align="center">
-  <img src="images/kuailego.png" width="100%" alt="快雷go">
+  <img src="images/kuaileigo.png" width="100%" alt="快雷go">
 </p>
 
 ---
