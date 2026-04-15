@@ -98,7 +98,7 @@
 ### 1. 红杏云 - 50多个节点（直连 + 家宽 + 原生 + 推荐使用官方客户端有更多原生独立线路）
 
 **官网入口**：
-- [红杏云官网](https://go.clashshome.com/hongxingyun)
+- [红杏云官网](https://go.clashshome.com/hongxingyun)，[备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH)
 
 **优惠码**：`ABING888`（全场 8 折，一个账户可用两次）
 
@@ -151,7 +151,7 @@
 ### 2. 宝可梦加速器 - IEPL/IPLC + 新疆可用
 
 **官网入口**：
-- [宝可梦加速器官网](https://go.clashshome.com/baokemeng)
+- [宝可梦加速器官网](https://go.clashshome.com/baokemeng)，[备用地址](https://love.p6m6.com/#/register?code=74mX69ks)
 
 **优惠码**：`9999`（新用户首单 9 折）
 
@@ -205,7 +205,7 @@
 ### 3. Mitce - 住宅IP+Hysteria2协议+稳定
 
 **官网入口**：
-- [Mitce官网](https://go.clashshome.com/mitcejc)
+- [Mitce官网](https://go.clashshome.com/mitcejc)，[备用地址](https://mitce.net/aff.php?aff=33445)
 
 **优惠码**：`SAKURA2026`（日本优化线路套餐锁定终身 8 折）
 
@@ -263,7 +263,7 @@
 ### 4. 快雷go - IEPL专线 + 全流媒体解锁 + 电信方向优化
 
 **官网入口**：
-- [快雷go官网](https://go.clashshome.com/kuaileigo)
+- [快雷go官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuailei.vip/register?code=n5YVQYr2)
 
 **优惠码**：`kuailei888`
 
@@ -322,7 +322,7 @@
 ### 5. 万达云 - 专线 + 家宽 + 稳定、抗封锁能力强
 
 **官网入口**：
-- [万达云官网](https://go.clashshome.com/wandayun)
+- [万达云官网](https://go.clashshome.com/wandayun)，[备用地址](https://link.wdyserver.com/register?code=kfKBXYDH)
 
 **机场档案**
 | 项目 | 详情 |
