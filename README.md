@@ -125,7 +125,7 @@
 - ✅ 不限设备，全家共享无压力
 
 **缺点**：
-- 官方一键客户端的话个人不建议使用最新版本的win和MAC官方客户端，原因不说了，他们有官方旧版本的，为了方便大家找到我放在我的[Releases](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun)里面，很好用
+- 官方一键客户端的话个人不建议使用最新版本的win和MAC官方客户端，原因不说了，他们有官方旧版本的，为了方便大家找到我放在我的[Releases](https://github.com/maomao533/jichang-tizi-tuijian/releases/tag/hongxingyun)里面，也很好用看个人喜欢
 
 **我的使用体验**：从 2024 年底开始用，轻量套餐每天刷剧+办公完全够用。是一家价格实惠、生态完善的近乎全能的机场，适合大部分场景使用。
 
